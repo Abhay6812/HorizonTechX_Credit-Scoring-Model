@@ -1,0 +1,6 @@
+{
+  "name": "CreditScope ML — Credit Scoring Notebook & Risk Workbench",
+  "description": "End-to-end Credit Scoring Machine Learning project for Jupyter Notebook featuring Logistic Regression, Decision Trees, Random Forest, XGBoost, evaluation metrics, and Matplotlib/Seaborn visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
